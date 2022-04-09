@@ -18,7 +18,7 @@ public class ReverseEachWordString {
 
 		}
 
-		System.out.println(reverseString);
+	
 	}
 
 }
